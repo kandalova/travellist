@@ -41,4 +41,5 @@ SAP Fiori elements
 
 1. Active NodeJS LTS (Long Term Support) version and associated supported NPM version.  (See https://nodejs.org)
 
-
+### Useful notes:
+When you added a custom section and didn’t see changes - add "sap-ui-xx-viewCache=false" parameter in URL before #
